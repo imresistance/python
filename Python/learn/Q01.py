@@ -14,7 +14,6 @@ def mult (list):
                     length -= 1
         print(length)
 
-
 line = input()
 data.append(line)
 for round in range(int(line)):
